@@ -1,0 +1,13 @@
+{
+    "name": "carlos/php-limonade-basic",
+    "description": "Basic project base on Limonade Framework",
+    "authors": [
+        {
+            "name": "Carlos Coronado",
+            "email": "carloscmaleno@gmail.com"
+        }
+    ],
+    "require": {
+      "sofadesign/limonade" : "dev-master"
+    }
+}
